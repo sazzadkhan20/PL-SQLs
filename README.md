@@ -185,17 +185,13 @@ Detailed documentation for each concept is available in the `docs/` directory:
 - `Database_Design.md`
 - `Best_Practices.md`
 
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
 ## 📝 License
 
 This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-Database Management System Course Project
+## Md. Sazzad Khan
 
 ---
 
