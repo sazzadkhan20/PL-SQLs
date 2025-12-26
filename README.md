@@ -68,7 +68,7 @@ swimming-pool-db/
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Oracle Database 11g or higher
+- Oracle Database 10g or higher
 - SQL*Plus or SQL Developer
 
 ### Installation
